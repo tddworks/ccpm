@@ -211,6 +211,8 @@ Specialized agents implement tasks while maintaining progress updates and an aud
 
 ### Epic Commands
 - `/pm:epic-decompose` - Break epic into task files
+- `/pm:task-usercases` - Break tasks into user scenarios
+- `/pm:usercase-tests` - Convert user cases to unit test cases
 - `/pm:epic-sync` - Push epic and tasks to GitHub
 - `/pm:epic-oneshot` - Decompose and sync in one command
 - `/pm:epic-list` - List all epics
